@@ -11,3 +11,5 @@ At this point, I have created this line as a way to have a new line in a branch 
 I will add this file to the staging area, commit my changes, and then switch back to the main branch.
 I will then edit this document in the main branch, add those changes to the staging area, and then try to merge the branches. 
 We will see what happens. 
+
+It worked. I will now merge these two branches together. 
