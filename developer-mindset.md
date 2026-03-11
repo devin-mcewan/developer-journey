@@ -5,11 +5,9 @@ I also learned that instead of git checkout, you can use a newer version as git 
 Combining the ideas of checkout and switch, you get something that looks like "git switch -c "new-branch-name". 
 That will switch you to a new branch named "new-branch-name". 
 
-git checkout -b "new-branch-name" is the same idea. 
+git checkout -b "new-branch-name" is the same idea.
 
-I have created a new branch called "truly resolve" 
-I added some lines to this document that are not showing up in the "main" branch. 
-I believe I have done what I intended to do. 
-
-I will now be adding this to the staging area, committing these changes, and then seeing if I can merge these branches back together. 
-I will remember to save this time...
+At this point, I have created this line as a way to have a new line in a branch named "truly resolving" 
+I will add this file to the staging area, commit my changes, and then switch back to the main branch.
+I will then edit this document in the main branch, add those changes to the staging area, and then try to merge the branches. 
+We will see what happens. 
