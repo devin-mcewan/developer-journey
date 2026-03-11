@@ -63,3 +63,13 @@ I work well with people. I am a self starter. I am an influencer. I guide a grou
 I create a stable work environment. I am efficient. I cut out unnecessary time wasting tasks. My phone is in focus modes that block social media during certain hours and set automatically enforced time restrictions during "non-work" hours. I cut out repetitive motions and behaviors. I have a clean work environment. I do all these things to create a peak work environment so the brain can create and the body follows orders. I create things I care about that help people. I do what I love, and I do it passionately.
 
 I am a developer. 
+
+# Git Learning Plan
+I am using ChatGPT to help me create a learning plan. 
+ChatGPT estimates that for about 30 minutes to 1 hour on worknights, 4 hours on my weekday off, and 2 hours on two weekend days, I will be able to become a full stack web developer that is job ready in 6-9 months. 
+
+My first week is all about Git and the coding environment. 
+I am supposed to get familiar with git and the process of creating a repo, cloning a repo, branching, merging, commits, etc. 
+
+I am also learning the regular workflow associated with web development and how things are going to be handled on the job. 
+
