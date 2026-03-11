@@ -73,3 +73,8 @@ I am supposed to get familiar with git and the process of creating a repo, cloni
 
 I am also learning the regular workflow associated with web development and how things are going to be handled on the job. 
 
+# What you learned this week. 
+
+I learned a lot this week. About myself mostly, but I did learn how to use Git. I am feeling very confident in my ability to create a repo, branch from it, make changes, commit those changes, and so on. I feel like this is coming back to me pretty quick and I am glad that there is some muscle memory kicking back in. I am hopeful in the next HTML and CSS sections that I will be able to create simple projects with ease, and hopefully without much reference. I think by the end of my second week, I will be confident and able to handle HTML and CSS as if I was a "certified" beginner again, even just after a week at it. I am hoping to sprint my way to the more complicated side of full stack web development and be able to read my old projects again. 
+
+    
